@@ -1,0 +1,13 @@
+.todos-list{
+    width:200px;
+    border: 1px solid gray;
+    padding: 15px;
+}
+
+.todos-list li{
+    list-style-type: none;
+}
+
+.todos-list li.done{
+    text-decoration: line-through;
+}
